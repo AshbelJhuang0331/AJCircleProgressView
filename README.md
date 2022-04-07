@@ -22,7 +22,7 @@ Just copy *AJCircleProgressView.h* and *AJCircleProgressView.m* to your project.
 
 Drag an UIView to xib or storyboard, then assign custom class to AJCircleProgressView.
 
-Offering following property and methods to use:
+Offering following properties and methods to use:
 
 ```objectivec
 
